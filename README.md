@@ -1,7 +1,7 @@
 # Telegram Message Forwarder Bot
 A telegram bot, which can forward messages from channel, group or chat to another channel, group or chat automatically.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/densus89/telegram-message-forwarder-bot)
 
 ### Configuration
 To configure this bot add the environment variables stated below. Or add them in [config.env.template](./config.env.template) and change the name to `config.env`.
@@ -44,5 +44,5 @@ python3 -m bot
 ```
 
 ### Copyright & License
-- Copyright &copy; 2021 &mdash; [Adnan Ahmad](https://github.com/viperadnan-git)
+- Copyright &copy; 2021 &mdash; [Adnan Ahmad](https://github.com/densus89/telegram-message-forwarder-bot)
 - Licensed under the terms of the [GNU General Public License Version 3 &dash; 29 June 2007](./LICENSE)
